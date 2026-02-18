@@ -1,15 +1,16 @@
-# Lenzeff
-Backend-focused developer.
+# 👋 Lenzeff
 
-## Focus
+Backend-focused developer
+
+## 🎯 Focus
 APIs, services, and backend fundamentals.
 
-## Stack
+## 🧩 Stack
 - Python
 - Go
 - Vue.js
 
-## Environment
-- macOS 
+## 💻 Environment
+- macOS
 - Visual Studio Code
 - WebStorm
